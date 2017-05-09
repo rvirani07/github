@@ -15,7 +15,6 @@ public class Sample1 {
 
 		System.out.println("Branch 1 commit 2");
 
-
 	}
 
 }
