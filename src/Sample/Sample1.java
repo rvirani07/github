@@ -11,6 +11,7 @@ public class Sample1 {
 		System.out.println("How are you ?");
 
 
+
 		System.out.println("Branch 1");
 
 		System.out.println("Branch 1 commit 2");
